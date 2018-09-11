@@ -7,8 +7,8 @@ Each course have a title and a subtitle, so I'll translate them both, like NO.1 
 
 NO.|English|Simplified Chinese|Old Translation
 ----|----|----|----
-1|Design System in Figma|用 Figma 创建设计规范|用Figma创建设计规范
-2|Complete guide to designing a site using a collaborative and powerful design system|用可团队协作、功能强大的设计系统设计一个网站|使用协作且功能强大的设计系统设计网站的完整指南
+1|Design System in Figma|通过 Figma 构建设计体系|用Figma创建设计规范
+2|Complete guide to designing a site using a collaborative and powerful design system|使用可协作、功能强大的设计体系设计网站的完整指南|使用协作且功能强大的设计系统设计网站的完整指南
 3|Basic Layout and Techniques|基本的布局和技巧|基本布局和技巧
 4|Start with the foundation|从基础开始|从基础开始
 5|Constraints and Adaptive Layout|约束和自适应布局|限制和自适应布局
@@ -22,11 +22,11 @@ NO.|English|Simplified Chinese|Old Translation
 13|Icons and Vector Network|图标和矢量网络|图标和矢量网络
 14|Create your own vector illustrations from scratch|从头开始创建自己的矢量插图|从头开始创建自己的矢量插图
 15|Export, Inspect and Code|导出、检查和编码|输出、检查和编码(code)
-16|Communicating the design system to your developers|与开发人员交流您的设计系统|与开发人员讨论您的设计系统
-17|Multiplayer and Commenting|多人在线评论|多人在线和评论
-18|Iterate designs and explore new ideas in a multiplayer environment|在多人环境中迭代设计并探索新想法|在多人环境中迭代设计并探索新想法
-19|Prototyping and Interaction|原型设计和互动|原型设计和互动
-20|Quickly create an entire flow for your app design|快速为您的应用程序设计创建整个流程|快速为您的应用程序设计创建整个流程
+16|Communicating the design system to your developers|与开发人员交流您的设计体系|与开发人员讨论您的设计系统
+17|Multiplayer and Commenting|多人协作和评论功能|多人在线和评论
+18|Iterate designs and explore new ideas in a multiplayer environment|通过多人协作进行设计迭代并探索新的想法|在多人环境中迭代设计并探索新想法
+19|Prototyping and Interaction|原型和交互设计|原型设计和互动
+20|Quickly create an entire flow for your app design|快速为您的设计制作出完整的原型和交互|快速为您的应用程序设计创建整个流程
 
 
 
